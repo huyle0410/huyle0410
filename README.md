@@ -2,7 +2,7 @@
 
 🎓 Master’s student in *Statistical Methods & Applications* at Sapienza University of Rome  
 📍 Based in Rome, Italy | 🌏 Originally from Vietnam  
-📊 Aspiring Data Analyst | Passionate about data storytelling, analytics & real-world impact
+📊 Data Analyst | Data Engineer | AI Engineer | Passionate about data storytelling, analytics & real-world impact
 
 ---
 
@@ -12,13 +12,14 @@
 - **Research Intern** at Vietnam Ministry of Foreign Affairs: policy data analysis & reporting for economic diplomacy.
 - **[Yelp Restaurant Analytics](https://github.com/huyle0410/yelp-restaurant-nlp)**: NLP + machine learning for review-based rating prediction (95% accuracy).
 - **[Food Access Inequality Mapping](https://github.com/huyle0410/food-access-atlas)**: full-stack geospatial ML pipeline with Python, Docker & GCP.
+- **[Real-Time IoT Streaming Pipeline](https://github.com/huyle0410/de-streaming-pipeline)**: self-hosted Kafka + Spark Structured Streaming + Airflow pipeline with Postgres and a Power BI dashboard.
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Languages & Tools:**  
-Python, R, SQL, Power BI, Google BigQuery, Scikit-learn, Pandas, Matplotlib, ggplot2, dplyr, FastAPI, Docker, GCP, Azure
+Python, R, SQL, Power BI, Google BigQuery, Scikit-learn, Pandas, Matplotlib, ggplot2, dplyr, FastAPI, Docker, GCP, Azure, Apache Kafka, Apache Spark, Apache Airflow
 
 **Areas of interest:**  
 Data Cleaning & Transformation • Dashboarding • Machine Learning • Geospatial Analysis • Data Storytelling
